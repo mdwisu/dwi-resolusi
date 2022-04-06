@@ -4,6 +4,7 @@ belajar javascript
 # es6
 # framework javascript
   * vue
+  * react
 belajar php framework
   * laravel
 liatin vlog
