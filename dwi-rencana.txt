@@ -3,5 +3,8 @@ rencana dwi
 belajar javascript
 # es6
 # framework javascript
+  * vue
 belajar php framework
+  * laravel
 liatin vlog
+- python
